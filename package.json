@@ -20,7 +20,7 @@
 		"openai": "^4.52.1",
 		"picocolors": "^1.0.0",
 		"qrcode": "^1.5.3",
-		"whatsapp-web.js": "^1.25.0"
+		"whatsapp-web.js": "^1.31.0"
 	},
 	"engines": {
 		"node": ">=18.0.0"
